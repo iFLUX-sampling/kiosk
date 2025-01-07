@@ -9,7 +9,7 @@
  //     "url": "https://timeseer.fluxsense.app/tenant/~/",
  //     "duration": 30,
  //     "tabReloadIntervalSeconds": 600
-    },
+ //   },
     {
       "url": "https://timeseer.fluxsense.app/tenant/~/catalog/data-services/12",
       "duration": 10,
