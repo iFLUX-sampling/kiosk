@@ -7,30 +7,30 @@
   "websites": [
     {
       "url": "https://timeseer.fluxsense.app/tenant/~/catalog/data-services/12",
-      "duration": 10,
+      "duration": 15,
       "tabReloadIntervalSeconds": 600
     },
     {
       "url": "https://timeseer.fluxsense.app/tenant/~/catalog/data-services/13",
-      "duration": 10,
+      "duration": 15,
       "tabReloadIntervalSeconds": 600
     },
 	    {
       "url": "https://timeseer.fluxsense.app/tenant/~/catalog/data-services/14",
-      "duration": 10,
+      "duration": 15,
       "tabReloadIntervalSeconds": 600
     },
 {
       "url": "https://timeseer.fluxsense.app/tenant/~/catalog/data-services/16",
-      "duration": 10,
+      "duration": 15,
       "tabReloadIntervalSeconds": 600
     },{
       "url": "https://timeseer.fluxsense.app/tenant/~/catalog/data-services/17",
-      "duration": 10,
+      "duration": 15,
       "tabReloadIntervalSeconds": 600
     },{
       "url": "https://timeseer.fluxsense.app/tenant/~/catalog/data-services/19",
-      "duration": 10,
+      "duration": 15,
       "tabReloadIntervalSeconds": 600
     }
   ]
