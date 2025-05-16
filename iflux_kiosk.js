@@ -75,6 +75,11 @@
             "url": "https://timeseer.fluxsense.app/tenant/~/catalog/data-services/50",
             "duration": 15,
             "tabReloadIntervalSeconds": 600
+        },
+        {
+            "url": "https://timeseer.fluxsense.app/tenant/~/catalog/data-services/52",
+            "duration": 15,
+            "tabReloadIntervalSeconds": 600
         }
     ]
 }
