@@ -12,7 +12,7 @@
             "tabReloadIntervalSeconds": 600
         },
         {
-            "url": "https://timeseer.fluxsense.app/tenant/~/catalog/data-services/14view=4",
+            "url": "https://timeseer.fluxsense.app/tenant/~/catalog/data-services/14?view=4",
             "duration": 15,
             "tabReloadIntervalSeconds": 600
         },
