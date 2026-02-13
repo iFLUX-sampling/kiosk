@@ -11,6 +11,5 @@ https://timeseer.fluxsense.app/tenant/~/catalog/data-services/45
 https://timeseer.fluxsense.app/tenant/~/catalog/data-services/47
 https://timeseer.fluxsense.app/tenant/~/catalog/data-services/51
 https://timeseer.fluxsense.app/tenant/~/catalog/data-services/53
-https://timeseer.fluxsense.app/tenant/~/catalog/data-services/54?view=15
 https://timeseer.fluxsense.app/tenant/~/catalog/data-services/49
-https://timeseer.fluxsense.app/tenant/~/catalog/data-services/58?view=18
+https://timeseer.fluxsense.app/tenant/~/catalog/data-services/55
